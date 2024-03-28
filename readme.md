@@ -1,4 +1,4 @@
-# AI-Driven Drug-Malady Classification System
+# Drug-Malady Classification Dataset Preparation
 
 ## Introduction
 This project leverages a machine learning model, fine-tuned with OpenAI's GPT-3, for classifying drugs based on their associated maladies. It involves processing a dataset of drugs and their corresponding maladies, preparing the data for model training, and using the model to predict maladies from drug names.
